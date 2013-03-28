@@ -44,9 +44,9 @@
 
 query("{query}")</string>
 				<key>subtext</key>
-				<string>查 js api</string>
+				<string>please input js api keyword</string>
 				<key>title</key>
-				<string>javascript api</string>
+				<string>search javascript api</string>
 				<key>type</key>
 				<integer>3</integer>
 				<key>withspace</key>
@@ -89,6 +89,6 @@ query("{query}")</string>
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/allenm/jsapi-workflow</string>
 </dict>
 </plist>
